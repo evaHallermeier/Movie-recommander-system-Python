@@ -1,4 +1,4 @@
-# Eva Hallermeier 337914121
+
 
 # import sys
 import matplotlib.pyplot as plt
