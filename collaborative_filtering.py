@@ -1,4 +1,3 @@
-# Eva Hallermeier 337914121
 
 import sys
 import pandas as pd
@@ -51,9 +50,7 @@ class collaborative_filtering:
     def create_user_based_matrix(self, data):
         ratings = data[0]
 
-        # for adding fake user - in question 5
-        #ratings = self.create_fake_user(ratings)
-        #####################
+
 
         movies = data[1]
         self.movies_data = movies
